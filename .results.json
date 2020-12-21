@@ -5,9 +5,9 @@
     "passes": 25,
     "pending": 0,
     "failures": 0,
-    "start": "2020-12-21T21:02:27.477Z",
-    "end": "2020-12-21T21:02:27.639Z",
-    "duration": 162
+    "start": "2020-12-21T21:02:40.546Z",
+    "end": "2020-12-21T21:02:40.720Z",
+    "duration": 174
   },
   "tests": [
     {
@@ -62,7 +62,7 @@
     {
       "title": "has an unique id property for each element",
       "fullTitle": "RestaurantInput Component with Redux has an unique id property for each element",
-      "duration": 7,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
@@ -83,14 +83,14 @@
     {
       "title": "updates the state of the store to remove the component",
       "fullTitle": "Restaurant Component with Redux updates the state of the store to remove the component",
-      "duration": 13,
+      "duration": 15,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "displays the ReviewInput component as a child of each Restaurant Component",
       "fullTitle": "ReviewInput Component displays the ReviewInput component as a child of each Restaurant Component",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -111,14 +111,14 @@
     {
       "title": "changes the component state with an onChange event",
       "fullTitle": "ReviewInput Component changes the component state with an onChange event",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "adds a review to the store when the form is submitted",
       "fullTitle": "ReviewInput Component adds a review to the store when the form is submitted",
-      "duration": 6,
+      "duration": 8,
       "currentRetry": 0,
       "err": {}
     },
@@ -139,21 +139,21 @@
     {
       "title": "associates the review with the restaurant with a foreign key on the review",
       "fullTitle": "ReviewInput Component associates the review with the restaurant with a foreign key on the review",
-      "duration": 5,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a child of the ReviewsContainer component",
       "fullTitle": "Reviews Component is a child of the ReviewsContainer component",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "displays a review for when it is associated with the restaurant",
       "fullTitle": "Reviews Component displays a review for when it is associated with the restaurant",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -174,7 +174,7 @@
     {
       "title": "has a button that dispatches a DELETE_REVIEW action when clicked",
       "fullTitle": "Reviews Component has a button that dispatches a DELETE_REVIEW action when clicked",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
@@ -241,7 +241,7 @@
     {
       "title": "has an unique id property for each element",
       "fullTitle": "RestaurantInput Component with Redux has an unique id property for each element",
-      "duration": 7,
+      "duration": 9,
       "currentRetry": 0,
       "err": {}
     },
@@ -262,14 +262,14 @@
     {
       "title": "updates the state of the store to remove the component",
       "fullTitle": "Restaurant Component with Redux updates the state of the store to remove the component",
-      "duration": 13,
+      "duration": 15,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "displays the ReviewInput component as a child of each Restaurant Component",
       "fullTitle": "ReviewInput Component displays the ReviewInput component as a child of each Restaurant Component",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -290,14 +290,14 @@
     {
       "title": "changes the component state with an onChange event",
       "fullTitle": "ReviewInput Component changes the component state with an onChange event",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "adds a review to the store when the form is submitted",
       "fullTitle": "ReviewInput Component adds a review to the store when the form is submitted",
-      "duration": 6,
+      "duration": 8,
       "currentRetry": 0,
       "err": {}
     },
@@ -318,21 +318,21 @@
     {
       "title": "associates the review with the restaurant with a foreign key on the review",
       "fullTitle": "ReviewInput Component associates the review with the restaurant with a foreign key on the review",
-      "duration": 5,
+      "duration": 6,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a child of the ReviewsContainer component",
       "fullTitle": "Reviews Component is a child of the ReviewsContainer component",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "displays a review for when it is associated with the restaurant",
       "fullTitle": "Reviews Component displays a review for when it is associated with the restaurant",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -353,7 +353,7 @@
     {
       "title": "has a button that dispatches a DELETE_REVIEW action when clicked",
       "fullTitle": "Reviews Component has a button that dispatches a DELETE_REVIEW action when clicked",
-      "duration": 3,
+      "duration": 4,
       "currentRetry": 0,
       "err": {}
     },
